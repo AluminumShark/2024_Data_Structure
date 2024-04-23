@@ -1,1 +1,1 @@
-homework assignments about the couse
+homework assignments about the course
