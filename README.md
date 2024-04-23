@@ -1,1 +1,1 @@
-homework assignments about the course
+Learn how to implement data structure on Python.
